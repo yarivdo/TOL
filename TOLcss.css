@@ -1,0 +1,32 @@
+h1 {
+    font-family: Gill Sans, Copperplate, Verdana, Century Gothic, Arial;
+    color: darkmagenta;
+}
+
+.targetModel{
+    
+}
+
+.userArea{
+    
+    
+}
+
+#userTable {
+    width: 80%;
+    height: 50%;
+    border-spacing: 35px 40px;
+    margin: auto;
+}
+TD {
+    padding: 5px;
+    text-align: center;
+    height: 60px;
+    border-radius: 20px;
+    border: solid 5px white;
+    
+}
+
+.space {
+    background-color: #f2f2f2;
+}
